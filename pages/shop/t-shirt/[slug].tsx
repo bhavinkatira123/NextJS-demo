@@ -85,7 +85,7 @@ function Tshirt({product}: any) {
 					</div>
 					<div className='mt-5'>
 						<p className='font-semibold text-slate-500 text-lg'>Size</p>
-						<div className='mt-1 mb-5 flex overflow-auto pb-3'>
+						<div className='mt-4 mb-5 flex overflow-auto pb-5'>
 							{product.availableSize.map((ele: {type: string; unit: number}, index: number) => {
 								return (
 									<button className='rounded-md py-2 px-4 md:px-6 h-10 mr-3 border border-solid' key={index}>
@@ -142,7 +142,7 @@ function Tshirt({product}: any) {
 			</div>
 			<div className='py-16 border-b border-solid'>
 				<h1 className='font-semibold text-slate-600 text-lg mb-5'>Customers also Purchased</h1>
-				<div className='grid gap-3 border-solid broder-2 md:flex'>
+				<div className='grid grid-cols-1fr overflow-auto gap-3 border-solid broder-2 md:flex pb-5'>
 					{product.relatedProduct.map((product: SimilarProductInfo, index: number) => (
 						<SimilarProductCard key={index} {...product} />
 					))}

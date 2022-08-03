@@ -45,7 +45,7 @@ const Footer = () => {
 					<h1 className='font-medium mb-2'>Sign up for our newsletter</h1>
 					<p className='mt-2 text-gray-400 text-sm font-medium'>The latest deals and saving, sent to your inbox weekly.</p>
 					<input type='text' className='border-solid border-2 rounded-sm p-2 mt-2' />
-					<button className='bg-blue-700 text-white py-2 px-4 mt-3 rounded-md font-medium md:ml-3'>Sign Up</button>
+					<button className='bg-blue-700 text-white py-2 px-4 mt-3 rounded-md font-medium ml-3'>Sign Up</button>
 				</div>
 			</div>
 		</div>
