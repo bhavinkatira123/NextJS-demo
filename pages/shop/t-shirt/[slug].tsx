@@ -10,6 +10,7 @@ import SimilarProductCard from '../../../components/similarProductCard';
 import {ReviewInfo, SimilarProductInfo} from '../../../shared/interface/interface';
 import SEO from '../../../shared/components/seo/seo';
 import Head from 'next/head';
+import ImageContainer from '../../../components/imageContainer';
 
 function Tshirt({product}: any) {
 	const schema = {
@@ -43,19 +44,7 @@ function Tshirt({product}: any) {
 				image={product.images[0]}
 			/>
 			<div className='mt-5 md:flex md:flex-row'>
-				<div>
-					<div className='w-full'>
-						<Image height={1000} width={900} className='rounded-md' src={product?.images[0]} alt='image' />
-					</div>
-					<div className='flex'>
-						<div className='w-1/2'>
-							<Image className='rounded-md' height={500} width={400} src={product?.images[1]} alt='image' />
-						</div>
-						<div className='w-1/2 ml-3'>
-							<Image className='rounded-md' height={500} width={400} src={product?.images[2]} alt='image' />
-						</div>
-					</div>
-				</div>
+				<ImageContainer images={product.images} />
 				<div className='md:ml-6 md:w-1/2'>
 					<h1 className='font-medium text-xl'>{product.title}</h1>
 					<div className='flex items-center justify-between mt-3'>
