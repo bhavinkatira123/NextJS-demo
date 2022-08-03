@@ -1,0 +1,305 @@
+{
+    "products": [
+      {
+        "id": 1234,
+        "title": "Men Blue Pure Cotton T-shirt",
+        "slug": "arrow-men-blue-pure-cotton-t-shirt",
+        "brandName": "Arrow",
+        "price": 35,
+        "rating": 3.9,
+        "reviewCount": 512,
+        "availableColors": ["black", "gray", "olive"],
+        "availableSize": [
+          {
+            "type": "xxs",
+            "unit": 5
+          },
+          {
+            "type": "xs",
+            "unit": 4
+          },
+          {
+            "type": "s",
+            "unit": 1
+          },
+          {
+            "type": "m",
+            "unit": 2
+          },
+          {
+            "type": "l",
+            "unit": 3
+          },
+          {
+            "type": "xl",
+            "unit": 0
+          }
+        ],
+        "images": [
+          "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17085358/2022/2/8/2b3e7523-789a-42da-8268-716da6bd5c881644309028631ArrowMenBluePoloCollarAppliqueT-shirt1.jpg",
+          "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17085358/2022/2/8/02f288a2-27d9-4dc2-94eb-32cdf3b707031644309028615ArrowMenBluePoloCollarAppliqueT-shirt4.jpg",
+          "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17085358/2022/2/8/4e1ccc4c-6cbd-4d39-b7aa-b76826cdc9971644309028623ArrowMenBluePoloCollarAppliqueT-shirt3.jpg"
+        ],
+        "description":
+          "<div class='meta-container'><div class='meta-info'><div class='meta-desc'>100% Original Products</div></div><div class='meta-info'><div class=meta-desc'>Pay on delivery might be available</div></div><div class='meta-info'><div class='meta-desc'>Easy 30 days returns and exchanges</div></div><div class='meta-info'><div class='meta-desc'>Try &amp; Buy might be available</div></div></div>",
+        "reviews": [
+          {
+            "id": "r1",
+            "author": "Risako M",
+            "date": "May 16, 2021",
+            "rating": 5,
+            "comment": "Can't say enough good things"
+          },
+          {
+            "id": "r2",
+            "author": "Laura G",
+            "date": "May 30, 2021",
+            "rating": 4,
+            "comment": "The last shirts I may ever need"
+          }
+        ],
+        "relatedProduct": [
+          {
+            "id": 234,
+            "title": "Basic Tee",
+            "slug": "nike-basic-tee",
+            "image":"https://assets.myntassets.com/f_webp,h_560,q_90,w_420/v1/assets/images/17149978/2022/3/9/d20ec562-98c9-435a-b753-8be819351aca1646828928254-Difference-of-Opinion-Men-Black-Graphic-Print-Drop-Shoulder--1.jpg",
+            "brand": "Nike",
+            "price": 35
+          },
+          {
+            "id": 456,
+            "title": "Artwork Tee",
+            "slug": "eta-artwork-tee",
+            "image":"https://assets.myntassets.com/f_webp,h_560,q_90,w_420/v1/assets/images/16504210/2021/12/24/744fe3ff-346a-48e7-823e-3b63582210e81640331220283-DILLINGER-Men-Tshirts-171640331219977-1.jpg",
+            "brand": "ETA",
+            "price": 35
+          }
+        ]
+    },
+    {
+      "id": 1235,
+      "title": "Men Mint Green Round Neck Drop-Shoulder Sleeves Cotton Loose T-shirt",
+      "slug": "men-mint-green-round-neck-drop-shoulder-sleeves-cotton-loose-t-shirt",
+      "brandName": "Difference of Opinion",
+      "price": 371,
+      "rating": 4.1,
+      "reviewCount": 712,
+      "availableColors": ["green"],
+      "availableSize": [
+        {
+          "type": "s",
+          "unit": 1
+        },
+        {
+          "type": "m",
+          "unit": 2
+        },
+        {
+          "type": "l",
+          "unit": 3
+        },
+        {
+          "type": "xl",
+          "unit": 0
+        },
+        {
+          "type": "xxl",
+          "unit": 4
+        }
+      ],
+      "images": [
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/16407468/2021/12/28/fce7ca1e-01ec-4c12-a90f-c7b75abda0e01640669480687-Difference-of-Opinion-Men-Tshirts-4021640669480120-1.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/16407468/2021/12/28/d68f0bc6-8408-4841-b12b-9f3d632cfe8d1640669480648-Difference-of-Opinion-Men-Tshirts-4021640669480120-5.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/16407468/2021/12/28/d8b66661-3f3b-40c6-a233-b152b12899661640669480669-Difference-of-Opinion-Men-Tshirts-4021640669480120-3.jpg"
+      ],
+      "description":
+        "<div class='meta-container'><div class='meta-info'><div class='meta-desc'>100% Original Products</div></div><div class='meta-info'><div class=meta-desc'>Pay on delivery might be available</div></div><div class='meta-info'><div class='meta-desc'>Easy 30 days returns and exchanges</div></div><div class='meta-info'><div class='meta-desc'>Try &amp; Buy might be available</div></div></div>",
+      "reviews": [
+        {
+          "id": "r1",
+          "author": "Asgar Shaikh",
+          "date": "25 June 2022",
+          "rating": 3,
+          "comment": "It's goes perfect on me."
+        },
+        {
+          "id": "r2",
+          "author": "Moazzam Majid",
+          "date": "12 July 2022",
+          "rating": 5,
+          "comment": "TNice fitting as expected, Same colour as shown in the pic."
+        },
+        {
+          "id": "r3",
+          "author": "Nihal",
+          "date": "1 July 2022",
+          "rating": 5,
+          "comment": "Excellent product quality,look, It's crazy authentic"
+        }
+      ],
+      "relatedProduct": [
+        {
+          "id": 521,
+          "title": "Basic Tee",
+          "slug": "printed-basic-tee",
+          "brand": "Difference of Opinion",
+          "image":"https://assets.myntassets.com/f_webp,h_560,q_90,w_420/v1/assets/images/17149986/2022/3/9/e97f9a18-a0da-4e5f-896e-7ca8274533661646826385586-Difference-of-Opinion-Men-Grey--Black-Cotton-Printed-Drop-Sh-1.jpg",
+          "price": 545
+        },
+        {
+          "id": 658,
+          "title": "Men Blue Solid",
+          "slug": "eta-artwork-tee",
+          "brand": "DILLINGER",
+          "image":"https://assets.myntassets.com/f_webp,h_560,q_90,w_420/v1/assets/images/16407454/2021/12/24/dd003e0b-e28c-4b71-8dba-890b6a8cf1b01640331175003-DILLINGER-Men-Tshirts-3371640331174496-1.jpg",
+          "price": 35
+        }
+      ]
+  },
+  {
+    "id": 1236,
+    "title": "Men Beige & Black Typography Printed Sustainable T-shirt",
+    "slug": "huetrap-men-beige--black-typography-printed-sustainable-t-shirt",
+    "brandName": "Huetrap",
+    "price": 472,
+    "rating": 4,
+    "reviewCount": 1006,
+    "availableColors": ["red"],
+    "availableSize": [
+      {
+        "type": "s",
+        "unit": 1
+      },
+      {
+        "type": "m",
+        "unit": 2
+      },
+      {
+        "type": "l",
+        "unit": 3
+      },
+      {
+        "type": "xl",
+        "unit": 0
+      },
+      {
+        "type": "xxl",
+        "unit": 5
+      }
+    ],
+    "images": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/productimage/2019/12/12/512f9dba-fdc5-4e84-a3bf-a430dc3889821576102551501-5.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/productimage/2019/12/12/6f3376d3-d5cd-4de4-8d04-66db80d5cef61576102551416-3.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/productimage/2019/12/12/3e3af82e-a465-46c0-8c52-19e27c063d611576102551460-4.jpg"
+    ],
+    "description":
+      "<div class='meta-container'><div class='meta-info'><div class='meta-desc'>100% Original Products</div></div><div class='meta-info'><div class=meta-desc'>Pay on delivery might be available</div></div><div class='meta-info'><div class='meta-desc'>Easy 30 days returns and exchanges</div></div><div class='meta-info'><div class='meta-desc'>Try &amp; Buy might be available</div></div></div>",
+    "reviews": [
+      {
+        "id": "r1",
+        "author": "Ashwani Kadyan",
+        "date": "2 Mar 2022",
+        "rating": 4,
+        "comment": "Great product for its price. Slightly loose from waste and sleeves but overall a good product. Also the colour is slightly different from the images. In reality the colour is lighter and cooler shade of grey. Nice for summers."
+      },
+      {
+        "id": "r2",
+        "author": "Ayush Bajpai",
+        "date": "17 July 2022",
+        "rating": 4,
+        "comment": "Although in this price the fabric quality is great and color looks good. You can use it for daily use purpose and it gives more attractive look when you are muscle pumped. According to me it'll not suit much for skinny or thin people. The black border part is meant to be a sensitive part as it can be faded if you used a brush hard on it while washing. So be careful of it while washing otherwise no color fade in the main fabric and it is good although 💪✌️✌️"
+      }
+    ],
+    "relatedProduct": [
+      {
+        "id": 235,
+        "title": "Men Black Marvel",
+        "slug": "kook-n-keech-marvel",
+        "brand": "Kook N Keech Marvel",
+        "image":"https://assets.myntassets.com/f_webp,h_560,q_90,w_420/v1/assets/images/9901805/2019/7/16/8139e933-b2a1-4d35-8a9f-d01cf3e1ace81563256634726-Roadster-Men-Tshirts-5541563256633223-1.jpg",
+        "price": 374
+      },
+      {
+        "id": 457,
+        "title": "Men Navy Solid Round",
+        "slug": "roadster-men-navy",
+        "image": "https://assets.myntassets.com/f_webp,h_560,q_90,w_420/v1/assets/images/12664088/2022/4/21/01c89213-d985-4e63-a823-b55c0076a4611650537610782RigoMenBlackHighNeckSlimFitT-shirt1.jpg",
+        "brand": "Roadster",
+        "price": 269
+      }
+    ]
+  },
+  {
+    "id": 1237,
+    "title": "Men Grey Melange Solid Round Neck T-shirt",
+    "slug": "roadster-men-grey-melange-solid-round-neck-t-shirt",
+    "brandName": "Roadster",
+    "price": 449,
+    "rating": 3.9,
+    "reviewCount": 226,
+    "availableColors": [ "gray"],
+    "availableSize": [
+      {
+        "type": "s",
+        "unit": 1
+      },
+      {
+        "type": "m",
+        "unit": 2
+      },
+      {
+        "type": "l",
+        "unit": 3
+      },
+      {
+        "type": "xl",
+        "unit": 0
+      }
+    ],
+    "images": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/12120770/2020/11/6/e77a8fb1-1990-479a-ac45-d041d21f47701604665086332RoadsterMenBlackWhiteRegularFitCheckedCasualShirtJeansRoadst1.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/12120770/2020/11/6/f48efc1a-2ccb-4b4a-a93a-31ad9b9b1d071604665086556RoadsterMenBlackWhiteRegularFitCheckedCasualShirtJeansRoadst5.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/12120770/2020/11/6/f4bdf3c4-a6f7-4ad5-afc0-7badf824002b1604665086507RoadsterMenBlackWhiteRegularFitCheckedCasualShirtJeansRoadst4.jpg"
+    ],
+    "description":
+      "<div class='meta-container'><div class='meta-info'><div class='meta-desc'>100% Original Products</div></div><div class='meta-info'><div class=meta-desc'>Pay on delivery might be available</div></div><div class='meta-info'><div class='meta-desc'>Easy 30 days returns and exchanges</div></div><div class='meta-info'><div class='meta-desc'>Try &amp; Buy might be available</div></div></div>",
+    "reviews": [
+      {
+        "id": "r1",
+        "author": "Vishal Dubey",
+        "date": "29 Mar 2022",
+        "rating": 4,
+        "comment": "The neck area is a bit loose even in small size .. rest the t shirt is good, comfortable.."
+      },
+      {
+        "id": "r2",
+        "author": "Manmay Sahu",
+        "date": "May 30, 2021",
+        "rating": 3,
+        "comment": "The quality of the material was good nd font length was also ok but the shoulder were too loose and length of them were quite long which is not that pleasent."
+      }
+    ],
+    "relatedProduct": [
+      {
+        "id": 234,
+        "title": "Basic Tee",
+        "slug": "nike-basic-tee",
+        "brand": "Nike",
+        "image":"https://assets.myntassets.com/f_webp,h_560,q_90,w_420/v1/assets/images/1697714/2019/6/12/df4093ea-a093-4e5c-a432-4c673de8b8dc1560344749151-Roadster-Men-Maroon--Navy-Blue-Striped-Round-Neck-T-shirt-36-5.jpg",
+        "price": 408
+      },
+      {
+        "id": 456,
+        "title": "Men Blue Cotton",
+        "slug": "campus-sutra-men-blue-colourblocked-cotton",
+        "image":"https://assets.myntassets.com/f_webp,h_560,q_90,w_420/v1/assets/images/10016983/2019/6/20/b5caaca7-b5e8-4134-9283-65473a2388031561026348090-Campus-Sutra-Men-Blue-Colourblocked-Round-Neck-T-shirt-99915-1.jpg",
+        "brand": "Campus Sutra",
+        "price": 460
+      }
+    ]
+  }
+]
+}
+   
+      
